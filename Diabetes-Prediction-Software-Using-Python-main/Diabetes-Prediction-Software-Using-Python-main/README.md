@@ -1,1 +1,0 @@
-# Diabetes-Prediction-Software-Using-Python
