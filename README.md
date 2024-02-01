@@ -148,7 +148,7 @@ Thank you for considering contributing to the Diabetes Prediction project! Your 
 1. Fork the repository.
 2. Clone the forked repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/diabetes-prediction.git
+     git clone https://github.com/FARMAN9/Diabetes-prediction.git
     ```
 3. Create a new branch for your changes.
     ```bash
